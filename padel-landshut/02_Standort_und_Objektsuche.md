@@ -69,32 +69,67 @@ Lkw-Verkehr ein gutes Geschäft.
 
 ---
 
-## 4. Leads (alle zu verifizieren)
+## 4. Gesichtete Objekte (Stand 29.07.2026, alle unverifiziert)
 
-### A — Größenordnung passt
+> **Woher diese Angaben stammen:** ausschließlich aus Suchmaschinen-Auszügen der Portale.
+> Die Detailseiten selbst sind für automatisierte Abrufe gesperrt. Adresse, Miete,
+> Verfügbarkeit und **Höhe** sind daher unbekannt oder ungeprüft. Mehrere Einträge können
+> dasselbe Objekt sein. Die Liste dient dazu, **den Markt einzuschätzen** — nicht dazu,
+> ein Objekt auszuwählen.
 
-| # | Objekt | Fläche | Höhe | Bemerkung |
+### A — Zielgröße 800–2.000 m²
+
+| # | Objekt | Fläche | Höhe | Bewertung |
 |---|---|---|---|---|
-| A1 | Landshut/Ergolding, Halle + Büro | 1.500 m² + 300 m² Büro + 600 m² Freifläche | **ca. 7 m** | Größe und Bürofläche ideal. Höhe ist der Knackpunkt — nachmessen |
-| A2 | Ergolding, Halle/Lager/Produktion | 999 m² EG | k. A. | Für **3 Courts** als Einstiegsvariante |
-| A3 | Eching bei Landshut | k. A. | k. A. | **provisionsfrei** — spart 2–3 Nettokaltmieten |
-| A4 | Landshut, modulare Lagerflächen | 40–2.000 m² | k. A. | gedämmt, frostfrei |
+| A1 | **Vilsbiburg**, Halle + Büro + Freifläche | 1.500 m² + 300 m² Büro + 600 m² Frei | **ca. 7 m** | Größe und Bürotrakt ideal, Höhe grenzwertig. Ebenerdiges Sektionaltor. 22 km — Randlage |
+| A2 | Halle + Büro/Sozialfläche | 1.000 m² + 120 m² | k. A. | 2 ebenerdige elektrische Rolltore. Für **3 Courts** denkbar |
+| A3 | Lager-/Produktionshalle + Bürotrakt | 830 m² + 141 m² | k. A. | 3 Sektionaltore, zwei je 4,50 m breit |
+| A4 | Ergolding, Halle/Lager/Produktion | 999 m² EG | k. A. | 3-Court-Einstiegsvariante |
+| A5 | Halle mit Sozial- und Bürofläche | 1.900 m² | **4,5 m UKB** | **Ausgeschieden** — Höhe unbrauchbar |
+| A6 | Gewerbefläche mit Lager | 1.050 m² + 1.000 m² Lager | k. A. | Bodenlast 5.000 kg/m² |
+| A7 | Rottenburg a.d. Laaber | 1.337 m² gesamt, davon 1.229 m² Halle | k. A. | 25 km |
+| A8 | Rottenburg a.d. Laaber | 857 m² | k. A. | zu klein |
+| A9 | Rottenburg a.d. Laaber | 700 m² | **4,50 m** | **Ausgeschieden** |
+| A10 | Ergolding | ca. 600 m² | ca. 7 m | zu klein |
+| A11 | Eching bei Landshut | k. A. | k. A. | **provisionsfrei** — spart 2–3 Nettokaltmieten |
+| A12 | Landshut, modulare Lagerflächen | 40–2.000 m² | k. A. | gedämmt, frostfrei, flexibel teilbar |
 
-### B — Teilfläche aus Großhalle verhandeln
+### B — Großhallen: Höhe passt, Teilfläche verhandeln
 
 | # | Objekt | Fläche | Höhe | Quelle |
 |---|---|---|---|---|
 | B1 | Essenbach, A92 | 6.000 m², teilbar ab 3.000 | k. A. | [Logivest 16434](https://www.logivest.de/logistikimmobilien/profil/16434/83958-Essenbach-Lagerhalle-mieten) |
 | B2 | Wörth a.d. Isar, Erstbezug | 10.000 m² | k. A. | [Logivest 13485](https://www.logivest.de/logistikimmobilien/profil/13485/Erstbezug---10.000-m%C2%B2-Industriehalle-in-Woerth-a.d.Isar-an-der-Autobahn-A-92---Landkreis-Landshut) |
 | B3 | Ergoldsbach | k. A. | k. A. | [Logivest 16394](https://www.logivest.de/logistikimmobilien/profil/16394/83900-Ergoldsbach-Lagerhalle-mieten) |
-| B4 | Kalthalle, teilbar | 6.500 m², ab 3.000 | **8 m UKB** | Portalauszug. Kalthalle = Heizung komplett neu |
-| B5 | Neubau, teilbar | 10.000 m² | **10 m UKB** | Portalauszug |
-| B6 | Ergolding (Archiv) | k. A. | k. A. | [Logivest 11058](https://www.logivest.de/logistikimmobilien/profil/11058/68882-Ergolding-Lagerhalle-mieten) |
-| B7 | Landshut (Archiv) | 4.000 m² | k. A. | [Logivest Archiv 8352](https://archiv.logivest.de/logistikimmobilien/profil/8352/arc-Gepflegt---4.000-m%C2%B2-Industriehalle-in-Landshut-an-der-Autobahn-A-92-) |
-| B8 | Essenbach, DUSS-Terminal (Archiv) | 13.000 m², ab 5.000 | **10–12 m** | [Logivest Archiv 5864](https://archiv.logivest.de/logistikimmobilien/profil/5864/arc-Erstbezug---13.000-m%C2%B2-Industriehalle-in-Essenbach-am-Gueterverkehrszentrum-DUSS-Terminal-Regensburg-Ost---Landkreis-Landshut) |
+| B4 | Frostfreie Kalthalle, teilbar | 6.500 m², ab 3.000 | **8 m UKB** | Portalauszug. 3.500 m² Freifläche, Einfahrt von allen Seiten. Kalthalle = Heizung komplett neu |
+| B5 | Neubau-Logistikhalle, teilbar | 10.000 m² | **10 m UKB** (Lagergut 7,50 m) | Portalauszug |
+| B6 | Halle ab Juni 2026 | 7.043 m² | k. A. | Portalauszug |
+| B7 | Moderne Halle + Büro | 8.661 m² + 960 m² Neben + 477 m² Büro | k. A. | Portalauszug, Raum Vilsbiburg |
+| B8 | Ergolding (Archiv) | k. A. | k. A. | [Logivest 11058](https://www.logivest.de/logistikimmobilien/profil/11058/68882-Ergolding-Lagerhalle-mieten) |
+| B9 | Landshut, A92 (Archiv) | 4.000 m² | k. A. | [Logivest Archiv 8352](https://archiv.logivest.de/logistikimmobilien/profil/8352/arc-Gepflegt---4.000-m%C2%B2-Industriehalle-in-Landshut-an-der-Autobahn-A-92-) |
+| B10 | Essenbach, DUSS-Terminal (Archiv) | 13.000 m², ab 5.000 | **10–12 m** | [Logivest Archiv 5864](https://archiv.logivest.de/logistikimmobilien/profil/5864/arc-Erstbezug---13.000-m%C2%B2-Industriehalle-in-Essenbach-am-Gueterverkehrszentrum-DUSS-Terminal-Regensburg-Ost---Landkreis-Landshut) |
 
 Archivobjekte trotzdem anrufen — die werden oft wieder frei. Bei Logivest deckt ein Telefonat
 mehrere Objekte ab.
+
+### Was die Sichtung von rund 20 Objekten zeigt
+
+**Kein einziges gesichtetes Objekt kombiniert 1.300–1.600 m² mit ≥ 7,5 m lichter Höhe.**
+Alle Objekte in der Zielgröße liegen bei 4,5–7 m. Alle Objekte mit 8–12 m Höhe sind
+6.000–13.000 m² groß und nur ab 3.000–5.000 m² teilbar.
+
+Das ist kein Zufall, sondern Bauphysik: Hallen dieser Größenordnung werden für Handwerk und
+Kleingewerbe gebaut, und dort reichen 4–7 m. Höhe gibt es erst ab Logistikmaßstab.
+
+**Konsequenz für die Suche:** Der Weg über eine Teilfläche aus einer Großhalle ist nicht die
+Ausweichlösung, sondern der Hauptweg. Objekt B4 (8 m UKB) und B5 (10 m UKB) sind die
+aussichtsreichsten Ansatzpunkte — dort anrufen und 1.600 m² mit eigenem Zugang verhandeln.
+
+### Bestandsdichte in den Portalen (zur Einordnung)
+
+Landkreis Landshut ca. 80 Gewerbeimmobilien · Stadt Landshut 5–10 Hallen/Industrieflächen ·
+Rottenburg 4 · Vilsbiburg 4 · Adlkofen 1. Der Markt ist also überschaubar — die Suche lässt
+sich vollständig durchsehen, sie ist in ein bis zwei Abenden zu erledigen.
 
 **Suchradius 20 km.** Priorität: Stadt Landshut → Ergolding, Altdorf, Essenbach, Kumhausen,
 Bruckberg → Vilsbiburg, Rottenburg, Moosburg (nur bei sehr gutem Objekt).
@@ -119,6 +154,23 @@ Bruckberg → Vilsbiburg, Rottenburg, Moosburg (nur bei sehr gutem Objekt).
 
 **Filter überall gleich:** Halle/Produktion/Lager, **800–8.000 m²** (bewusst weit, damit
 teilbare Großobjekte auftauchen), Umkreis 20 km um 84028, tägliche Benachrichtigung.
+
+### Warum die Detailseiten hier fehlen
+
+Die Portale sperren automatisierte Abrufe (HTTP 403 auf jeder Detailseite). Diese Sperren
+werden nicht umgangen — es sind technische Zugangsbeschränkungen fremder Betreiber.
+Die Original-Inserate holst du in wenigen Minuten selbst:
+
+1. Einen der Suchlinks oben im Browser öffnen, Filter Halle/Produktion, 800–8.000 m²,
+   Umkreis 20 km um 84028.
+2. Bei jedem Treffer nur zwei Dinge prüfen: **lichte Höhe** und **stützenfreie Spanne**.
+   Steht die Höhe nicht im Exposé — und das ist der Normalfall — anrufen und fragen.
+3. Alles unter 7,5 m sofort verwerfen, außer es sind über 1.400 m² und der Vermieter
+   akzeptiert eine 3-Court-Variante.
+
+**Wenn du mir die Exposé-Texte oder Links hierher kopierst, bewerte ich jedes Objekt gegen
+das Anforderungsprofil und fülle den Steckbrief aus Abschnitt 7 vor.** Das ist der schnellere
+Weg als jede Portalautomatisierung.
 
 **Off-market:** Wirtschaftsförderung Stadt und Landkreis · IHK Niederbayern ·
 Gewerbemakler mit Suchauftrag (Courtage 2–3 Nettokaltmieten) · Insolvenzverwalter ·
