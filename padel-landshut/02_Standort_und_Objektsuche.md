@@ -136,41 +136,88 @@ Bruckberg → Vilsbiburg, Rottenburg, Moosburg (nur bei sehr gutem Objekt).
 
 ---
 
-## 5. Suchkanäle
+## 5. Suchkanäle — Rangfolge und Filtereinstellungen
 
-| Kanal | Link |
-|---|---|
-| Immowelt Stadt | https://www.immowelt.de/suche/mieten/hallen-industrieflaechen/bayern/landshut-84028/ad08de6863 |
-| Immowelt Landkreis | https://www.immowelt.de/suche/mieten/hallen-industrieflaechen/bayern/landshut-09274/ad06de253 |
-| ImmoScout24 Stadt | https://www.immobilienscout24.de/Suche/de/bayern/landshut/hallenproduktion-mieten |
-| ImmoScout24 Landkreis | https://www.immobilienscout24.de/gewerbe-flaechen/de/bayern/landshut-kreis/hallenproduktion-mieten/ |
-| Immonet | https://www.immonet.de/suchen/miete/hallen-industrieflaechen/bayern/landshut-84028/ad08de6863 |
-| Immobilo | https://www.immobilo.de/mieten/gewerbe/halle-produktion/landshut-kreis |
-| Immosuchmaschine (Metasuche) | https://www.immosuchmaschine.de/k/landshut-landkreis/gewerbeimmobilien-mieten |
-| Kleinanzeigen | https://www.kleinanzeigen.de/s-gewerbeimmobilien/landshut/lagerhalle/k0c277l6388 |
-| **kip.net (Landkreis, off-market)** | https://www.kip.net/bayern/landkreis-landshut/gewerbe |
-| Logivest | https://www.logivest.de |
-| Gewerbegebiete-Übersicht | https://www.gewerbegebiete.de/suchen/Gewerbegebiete-Landshut-C7499 |
+Die Rangfolge folgt dem Befund aus Abschnitt 4: Die nötige Höhe gibt es nur im
+Logistiksegment. Deshalb stehen die Spezialportale oben, nicht die großen Publikumsportale.
 
-**Filter überall gleich:** Halle/Produktion/Lager, **800–8.000 m²** (bewusst weit, damit
-teilbare Großobjekte auftauchen), Umkreis 20 km um 84028, tägliche Benachrichtigung.
+### Priorität A — Logistik- und Industriespezialisten (hier ist die Höhe)
 
-### Warum die Detailseiten hier fehlen
+| Portal | Warum | Link |
+|---|---|---|
+| **Logivest** | Reines Logistikimmobilien-Portal, deckt Niederbayern ab. Objekte mit 8–12 m Höhe, teilbar. Ein Ansprechpartner betreut oft mehrere Objekte — ein Telefonat deckt vier Leads ab | https://www.logivest.de |
+| **Realogis** | Zweiter großer Industrie-/Logistikmakler mit Bayern-Schwerpunkt | https://www.realogis.de/hallen/produktionshallen |
+| Logivest Archiv | Abgelaufene Inserate — Eigentümer trotzdem anrufen, Flächen werden wieder frei | https://archiv.logivest.de |
+
+Hier **nicht filtern, sondern das komplette Angebot im Umkreis 30 km durchsehen** — es sind
+nur wenige Dutzend Objekte. Bei jedem: anrufen und nach einer Teilfläche von 1.600 m² mit
+eigenem Zugang fragen (Anschreiben in Abschnitt 6.2).
+
+### Priorität B — die unterindexierten Kanäle (hier sind die Schnäppchen)
+
+| Portal | Warum | Link |
+|---|---|---|
+| **Kleinanzeigen** | Private und kleine Eigentümer, häufig provisionsfrei, schlecht von Suchmaschinen erfasst — echter Informationsvorsprung | https://www.kleinanzeigen.de/s-gewerbeimmobilien/landshut/lagerhalle/k0c277l6388 |
+| **kip.net** (Landkreis Landshut) | Kommunales Portal, Objekte die auf keinem Publikumsportal stehen | https://www.kip.net/bayern/landkreis-landshut/gewerbe |
+| **Immosuchmaschine** | Metasuche über viele Portale inkl. kleiner regionaler — fängt, was die Großen nicht haben | https://www.immosuchmaschine.de/k/landshut-landkreis/gewerbeimmobilien-mieten |
+| ohne-makler.net | Provisionsfreie Direktvermietung | https://www.ohne-makler.net |
+
+### Priorität C — Publikumsportale (Grundabdeckung)
+
+| Portal | Hinweis | Link |
+|---|---|---|
+| ImmoScout24 Landkreis | Größtes Inventar, bester Suchagent | https://www.immobilienscout24.de/gewerbe-flaechen/de/bayern/landshut-kreis/hallenproduktion-mieten/ |
+| ImmoScout24 Stadt | | https://www.immobilienscout24.de/Suche/de/bayern/landshut/hallenproduktion-mieten |
+| Immowelt Landkreis | Immowelt und Immonet gehören zusammen — Inventar überschneidet sich stark, **beide trotzdem prüfen** | https://www.immowelt.de/suche/mieten/hallen-industrieflaechen/bayern/landshut-09274/ad06de253 |
+| Immowelt Stadt | | https://www.immowelt.de/suche/mieten/hallen-industrieflaechen/bayern/landshut-84028/ad08de6863 |
+| Immonet | | https://www.immonet.de/suchen/miete/hallen-industrieflaechen/bayern/landshut-84028/ad08de6863 |
+| Immobilo | | https://www.immobilo.de/mieten/gewerbe/halle-produktion/landshut-kreis |
+
+### Filtereinstellungen — überall identisch
+
+| Feld | Einstellung | Begründung |
+|---|---|---|
+| Objektart | **Halle / Produktion / Lager / Gewerbefläche** — alle vier ankreuzen | Padeltaugliche Hallen sind oft als „Produktion" oder „Gewerbefläche" eingestellt, nicht als „Lager" |
+| Fläche | **800–8.000 m²** | Bewusst weit. Unter 800 m² passen keine 3 Courts; über 8.000 m² beginnt reine Logistik. Teilbare Großobjekte müssen mit auftauchen |
+| Umkreis | **20 km um 84028 Landshut** | Padelspieler fahren 15–25 Minuten |
+| Miete | **kein Filter setzen** | Sehr viele Gewerbeinserate stehen auf „Preis auf Anfrage" und fallen bei jedem Preisfilter komplett raus |
+| Verfügbarkeit / Bezugstermin | **kein Filter** | Du brauchst ohnehin 4–6 Monate bis zur Genehmigung |
+| Provision | kein Filter | Courtage ist verhandelbar |
+| Suchagent | **täglich per E-Mail** | Gute Hallen sind in Tagen weg |
+
+### Der Filter, den es nicht gibt
+
+**Kein Portal filtert nach lichter Höhe.** Das ist genau das Kriterium, an dem dein Projekt
+hängt. Drei Behelfe:
+
+1. **Volltextsuche** im Freitextfeld nach: `Hallenhöhe`, `UKB`, `stützenfrei`, `Kranbahn`,
+   `teilbar`, `Logistikhalle`, `8 m`, `9 m`, `10 m`
+2. **Kranbahn als Indikator:** Hallen mit Kranbahn sind fast immer ≥ 8 m. Steht „Kranbahn"
+   oder „Hallenkran" im Exposé, lohnt der Anruf immer.
+3. **Bodenlast als Indikator:** Angaben ab 5.000 kg/m² deuten auf Industrie-/Logistikbau und
+   damit auf Höhe.
+
+Steht keine Höhe im Exposé — der Normalfall — **anrufen und exakt fragen:**
+„Wie hoch ist die Halle lichte Höhe unter dem tiefsten Bauteil, also unter Unterzügen,
+Leitungen und Sprinklern?" Die Antwort „acht Meter Firsthöhe" ist keine Antwort — entscheidend
+ist die **hindernisfreie Höhe über der gesamten Fläche**.
+
+### 30-Minuten-Routine für den Start
+
+1. Logivest und Realogis komplett durchsehen, alle Objekte im Umkreis 30 km notieren (10 Min.)
+2. Suchagenten auf ImmoScout24, Immowelt, Immonet, Kleinanzeigen anlegen (10 Min.)
+3. kip.net durchsehen (5 Min.)
+4. Wirtschaftsförderung Stadt **und** Landkreis anschreiben (5 Min., Text in Abschnitt 6.1)
+
+Danach kommt die Arbeit per Telefon, nicht per Portal.
+
+### Warum die Detailseiten in diesem Dokument fehlen
 
 Die Portale sperren automatisierte Abrufe (HTTP 403 auf jeder Detailseite). Diese Sperren
 werden nicht umgangen — es sind technische Zugangsbeschränkungen fremder Betreiber.
-Die Original-Inserate holst du in wenigen Minuten selbst:
 
-1. Einen der Suchlinks oben im Browser öffnen, Filter Halle/Produktion, 800–8.000 m²,
-   Umkreis 20 km um 84028.
-2. Bei jedem Treffer nur zwei Dinge prüfen: **lichte Höhe** und **stützenfreie Spanne**.
-   Steht die Höhe nicht im Exposé — und das ist der Normalfall — anrufen und fragen.
-3. Alles unter 7,5 m sofort verwerfen, außer es sind über 1.400 m² und der Vermieter
-   akzeptiert eine 3-Court-Variante.
-
-**Wenn du mir die Exposé-Texte oder Links hierher kopierst, bewerte ich jedes Objekt gegen
-das Anforderungsprofil und fülle den Steckbrief aus Abschnitt 7 vor.** Das ist der schnellere
-Weg als jede Portalautomatisierung.
+**Wenn du mir die Exposé-Texte oder Links hierher kopierst, bewerte ich jedes Objekt gegen das
+Anforderungsprofil und fülle den Steckbrief aus Abschnitt 7 vor.**
 
 **Off-market:** Wirtschaftsförderung Stadt und Landkreis · IHK Niederbayern ·
 Gewerbemakler mit Suchauftrag (Courtage 2–3 Nettokaltmieten) · Insolvenzverwalter ·
