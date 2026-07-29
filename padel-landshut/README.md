@@ -1,78 +1,54 @@
-# Padel-Halle Landshut — Projektdossier
+# Padel-Halle Landshut
 
-**Konzept:** 4 Indoor-Padelcourts in einer **gemieteten** Bestandshalle im Großraum Landshut,
-betrieben als schlank besetztes Smart-Access-Center (App-Buchung, Selbstzutritt, Personal nur
-zu Stoßzeiten).
+4 Indoor-Courts in einer **gemieteten** Bestandshalle. Smart-Access-Betrieb (App-Buchung,
+Selbstzutritt, Personal nur zu Stoßzeiten). Stand Juli 2026.
 
-**Stand:** Juli 2026 · **Status:** Planungsfassung zur Vorlage bei Bank, Vermieter und Bauamt
+## Ausgangslage
 
----
+- Einzugsgebiet Stadt (~73.000) + Landkreis (155.442) ≈ **230.000 Einwohner**
+- Vorhanden: **2 Outdoor-Courts** (TC Weiß-Blau, seit April 2026, vereinsgebunden)
+- Kommerzielles Indoor: **keines im Umkreis 60 km**
+- Versorgungsgrad 1 Court je 115.000 EW; Padel-reife Märkte: 1 je 8.000–15.000
 
-## Die Idee in fünf Sätzen
+## Eckdaten
 
-Landshut (Stadt ~73.000 EW) und der Landkreis (155.442 EW) haben zusammen ein Einzugsgebiet von
-rund 230.000 Menschen — und aktuell praktisch **kein Indoor-Padel-Angebot**. Der erste Padelplatz
-der Region ging im April 2026 beim TC Weiß-Blau Landshut in Betrieb (2 Courts, im Freien,
-vereinsgebunden). Padel ist die am schnellsten wachsende Sportart Europas; für 2026 sind in
-Deutschland über 600 neue Anlagen geplant. Wer in Landshut die **erste ganzjährig bespielbare
-Halle** eröffnet, besetzt den Markt vor dem Wettbewerb — und zwar mit geringem Kapitaleinsatz,
-weil die Halle gemietet und nicht gebaut wird. Das Ergebnis: ~575.000 € Investition statt
-1,2–1,8 Mio. € Neubau, Break-even bei rund 47 % Auslastung, positiver Cashflow ab Jahr 2.
-
----
+| | |
+|---|---|
+| Courts | 4 Indoor, Option auf 5.–6. |
+| Hallenbedarf | 1.300–1.600 m², stützenfrei ≥ 43 × 22 m, lichte Höhe ≥ 7,5 m (Ziel 8,5 m) |
+| Zielmiete | 4,50–6,00 €/m² kalt → 100–125 T€/Jahr inkl. NK |
+| Investition | 575 T€ + 60 T€ Liquiditätsreserve |
+| Eigenkapital | 150 T€ (100 bar + 50 Vorverkauf) = 23,6 % |
+| Fremdkapital | 485 T€ (KfW 125 + LfA 230 + Leasing 130) |
+| Umsatz J1/J3/J5 | 361 / 494 / 526 T€ netto |
+| EBITDA J1/J3/J5 | 25 / 91 / 100 T€ |
+| Break-even | 47 % Gesamtauslastung (≈ 68 % Prime-Time) |
+| Rechtsform | GmbH |
+| Zeit bis Eröffnung | 10–12 Monate ab Standortzusage |
 
 ## Dokumente
 
-| # | Dokument | Inhalt |
-|---|----------|--------|
-| 01 | [Businessplan](01_Businessplan.md) | Markt, Zielgruppen, Angebot, Preise, Marketing, Betrieb, Team, Risiken |
-| 02 | [Standortsuche](02_Standortsuche.md) | Anforderungsprofil, Suchgebiete, Scoring-Matrix, Mietvertrag, Genehmigung |
-| 03 | [Finanzplan](03_Finanzplan.md) | Investition, Finanzierungsmix, Förderkredite, 5-Jahres-GuV, Break-even, Sensitivität |
-| 04 | [Courtbau & Vergabe](04_Courtbau_und_Vergabe.md) | Wer baut die Felder, technische Spezifikation, Leistungsverzeichnis, Vertragsklauseln |
-| 05 | [Zeitplan & Umsetzung](05_Zeitplan_und_Umsetzung.md) | 12-Monats-Fahrplan, Meilensteine, To-do-Liste der nächsten 30 Tage |
-| 06 | [Objektsuche Landshut](06_Objektsuche_Landshut.md) | Konkrete Objekt-Leads, Suchlinks, Direktkanäle, fertige Anschreiben, Objektsteckbrief |
-| 07 | [Verträge](07_Vertraege.md) | LOI, Mietvertrags-Klauselkatalog, Werkvertrag Courtbau, Kooperations- und Trainerverträge, AGB, Versicherungen |
-| 08 | [Courtbau-Preisvergleich](08_Courtbau_Preisvergleich.md) | Was ein Court wirklich kostet, vier Beschaffungswege, Anbieterübersicht, Verhandlungshebel, Angebotsanfrage |
+| # | Datei | Inhalt |
+|---|---|---|
+| 01 | [Businessplan](01_Businessplan.md) | Markt, Zielgruppen, Preise, Betrieb, Marketing, Risiken |
+| 02 | [Standort & Objektsuche](02_Standort_und_Objektsuche.md) | Anforderungen, Leads, Suchkanäle, Anschreiben, Steckbrief, Genehmigung |
+| 03 | [Finanzplan](03_Finanzplan.md) | Investition, Finanzierung, 5-Jahres-GuV, Break-even, Sensitivität |
+| 04 | [Courtbau](04_Courtbau.md) | Anbieter, Preise, Spezifikation, Vergabe, Angebotsanfrage |
+| 05 | [Verträge](05_Vertraege.md) | LOI, Mietvertrag, Werkvertrag, Kooperation, AGB, Versicherung |
+| 06 | [Zeitplan](06_Zeitplan.md) | 12-Monats-Fahrplan, kritischer Pfad, 30-Tage-Liste, Frühwarnindikatoren |
 
----
+## Warum mieten statt bauen
 
-## Eckdaten auf einen Blick
+| | Mieten | Bauen |
+|---|---|---|
+| Investition | 575 T€ | 1,2–1,8 Mio. € |
+| Eigenkapital | 150 T€ | 300–450 T€ |
+| Bis Eröffnung | 10–12 Monate | 20–30 Monate |
+| Risiko bei Fehlschlag | Courts demontieren, Vertrag beenden | Spezialimmobilie am Hals |
 
-| Kennzahl | Wert |
-|---|---|
-| Courts | 4 Indoor (Panorama), Option auf 5.–6. Court |
-| Hallenbedarf | ca. 1.400–1.600 m², stützenfrei ≥ 43 × 23 m, lichte Höhe ≥ 8 m |
-| Kaltmiete Zielkorridor | 4,50–6,00 €/m² → ca. 100.000–125.000 €/Jahr inkl. NK |
-| Investition (Basisszenario) | ca. 575.000 € netto inkl. 15 % Puffer |
-| Eigenkapital | 120.000 € (ca. 21 %) |
-| Fremdkapital | 455.000 € (KfW StartGeld + LfA Startkredit + Leasing, Bürgschaftsbank Bayern) |
-| Umsatz Jahr 1 / 3 / 5 | 361 T€ / 494 T€ / 526 T€ netto |
-| EBITDA Jahr 1 / 3 / 5 | 25 T€ / 91 T€ / 100 T€ |
-| Break-even | ca. 47 % Gesamtauslastung (≈ 68 % Prime-Time) |
-| Rechtsform | GmbH (Betreibergesellschaft) |
-| Zeit bis Eröffnung | 10–12 Monate ab Standortzusage |
+Ankaufsoption in den Mietvertrag verhandeln — dann bleibt der Weg in die Immobilie offen.
 
----
+## Verbindlich zu klären vor der Finanzierungsentscheidung
 
-## Warum dieses Konzept trägt
-
-1. **Mieten statt bauen** senkt den Kapitalbedarf um den Faktor 2–3 und macht das Projekt
-   überhaupt erst bankfähig für einen Einzelgründer.
-2. **First-Mover in einem unterversorgten Markt** — die nächsten kommerziellen Indoor-Anlagen
-   liegen in München, Erding und Regensburg, also 45–70 Minuten entfernt.
-3. **Indoor ist das margenstärkere Segment**: ganzjährig planbare Auslastung, Winter-Peak,
-   Preisniveau 40–48 € statt 12–15 € beim Verein.
-4. **Schlanker Betrieb** über Buchungsplattform, Smart-Access und Selbstbedienung hält die
-   Personalkosten unter 30 % vom Umsatz.
-5. **Skalierbar**: Bewährt sich das Modell, folgen Courts 5 und 6 in derselben Halle — und
-   danach ein zweiter Standort in Dingolfing, Vilsbiburg oder Erding.
-
----
-
-## Wichtiger Hinweis
-
-Alle Zahlen sind fundierte Planannahmen auf Basis von Branchen-Benchmarks (Stand Juli 2026),
-keine Zusagen. Vor der Finanzierungsentscheidung sind verbindlich einzuholen:
-Mietangebot mit Flächen- und Höhenaufmaß, drei Court-Angebote, eine Bauvoranfrage bei der Stadt
-bzw. Gemeinde und ein Energiekostenangebot. Die Reihenfolge steht in
-[05_Zeitplan_und_Umsetzung.md](05_Zeitplan_und_Umsetzung.md).
+Mietangebot mit Flächen- und **Höhenaufmaß** · 3 Court-Angebote · Bauvoranfrage ·
+Energiekostenangebot. Alle Zahlen sind Planannahmen auf Basis von Branchen-Benchmarks.
