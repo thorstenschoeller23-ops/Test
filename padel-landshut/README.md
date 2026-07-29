@@ -17,12 +17,12 @@ Selbstzutritt, Personal nur zu Stoßzeiten). Stand Juli 2026.
 | Courts | 4 Indoor, Option auf 5.–6. |
 | Hallenbedarf | 1.300–1.600 m², stützenfrei ≥ 43 × 22 m, lichte Höhe ≥ 7,5 m (Ziel 8,5 m) |
 | Zielmiete | 4,50–6,00 €/m² kalt → 100–125 T€/Jahr inkl. NK |
-| Investition | 575 T€ + 60 T€ Liquiditätsreserve |
-| Eigenkapital | 150 T€ (100 bar + 50 Vorverkauf) = 23,6 % |
-| Fremdkapital | 485 T€ (KfW 125 + LfA 230 + Leasing 130) |
+| Investition | 577 T€ + 80 T€ Liquiditätsreserve |
+| Eigenkapital | 150 T€ (100 bar + 50 Vorverkauf) = 22,8 % |
+| Fremdkapital | 507 T€ (KfW 125 + LfA 252 + Mietkauf 130) |
 | Umsatz J1/J3/J5 | 361 / 494 / 526 T€ netto |
-| EBITDA J1/J3/J5 | 25 / 91 / 100 T€ |
-| Break-even | 47 % Gesamtauslastung (≈ 68 % Prime-Time) |
+| EBITDA J1/J3/J5 | 23 / 92 / 101 T€ |
+| Break-even | 46,2 % Gesamtauslastung, Plan J3 50,9 % → 4,7 Punkte Abstand |
 | Rechtsform | GmbH |
 | Zeit bis Eröffnung | 10–12 Monate ab Standortzusage |
 
@@ -42,7 +42,7 @@ Selbstzutritt, Personal nur zu Stoßzeiten). Stand Juli 2026.
 
 | | Mieten | Bauen |
 |---|---|---|
-| Investition | 575 T€ | 1,2–1,8 Mio. € |
+| Investition | 577 T€ | 1,2–1,8 Mio. € |
 | Eigenkapital | 150 T€ | 300–450 T€ |
 | Bis Eröffnung | 10–12 Monate | 20–30 Monate |
 | Risiko bei Fehlschlag | Courts demontieren, Vertrag beenden | Spezialimmobilie am Hals |

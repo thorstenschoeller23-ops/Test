@@ -154,13 +154,13 @@ Ziel Jahr 1: 1.400 registrierte Spieler, 250 mit Abo.
 
 | Kennzahl | J1 | J3 |
 |---|---:|---:|
-| Gesamtauslastung | 38 % | 52 % |
+| Gesamtauslastung | 38 % | 51 % |
 | Prime-Time | 65 % | 78 % |
 | Registrierte Spieler | 1.400 | 3.000 |
 | Abos | 250 | 450 |
 | Courterlöse je Court | 71 T€ | 93 T€ |
 | Zusatzerlösquote | 21 % | 25 % |
-| EBITDA-Marge | 7 % | 18 % |
+| EBITDA-Marge | 6 % | 19 % |
 | Wiederbuchung binnen 30 Tagen | 55 % | 70 % |
 
 ---
