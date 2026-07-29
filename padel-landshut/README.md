@@ -30,6 +30,9 @@ weil die Halle gemietet und nicht gebaut wird. Das Ergebnis: ~575.000 € Invest
 | 03 | [Finanzplan](03_Finanzplan.md) | Investition, Finanzierungsmix, Förderkredite, 5-Jahres-GuV, Break-even, Sensitivität |
 | 04 | [Courtbau & Vergabe](04_Courtbau_und_Vergabe.md) | Wer baut die Felder, technische Spezifikation, Leistungsverzeichnis, Vertragsklauseln |
 | 05 | [Zeitplan & Umsetzung](05_Zeitplan_und_Umsetzung.md) | 12-Monats-Fahrplan, Meilensteine, To-do-Liste der nächsten 30 Tage |
+| 06 | [Objektsuche Landshut](06_Objektsuche_Landshut.md) | Konkrete Objekt-Leads, Suchlinks, Direktkanäle, fertige Anschreiben, Objektsteckbrief |
+| 07 | [Verträge](07_Vertraege.md) | LOI, Mietvertrags-Klauselkatalog, Werkvertrag Courtbau, Kooperations- und Trainerverträge, AGB, Versicherungen |
+| 08 | [Courtbau-Preisvergleich](08_Courtbau_Preisvergleich.md) | Was ein Court wirklich kostet, vier Beschaffungswege, Anbieterübersicht, Verhandlungshebel, Angebotsanfrage |
 
 ---
 
