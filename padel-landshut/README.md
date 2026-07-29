@@ -36,6 +36,7 @@ Selbstzutritt, Personal nur zu Stoßzeiten). Stand Juli 2026.
 | 04 | [Courtbau](04_Courtbau.md) | Anbieter, Preise, Spezifikation, Vergabe, Angebotsanfrage |
 | 05 | [Verträge](05_Vertraege.md) | LOI, Mietvertrag, Werkvertrag, Kooperation, AGB, Versicherung |
 | 06 | [Zeitplan](06_Zeitplan.md) | 12-Monats-Fahrplan, kritischer Pfad, 30-Tage-Liste, Frühwarnindikatoren |
+| — | **Finanzplan_Padel_Landshut.xlsx** | Rechenmodell zum Anpassen: alle Annahmen als Eingabezellen, 483 Formeln, 5-Jahres-GuV, Monatsliquidität, Break-even, Sensitivität |
 
 ## Warum mieten statt bauen
 
